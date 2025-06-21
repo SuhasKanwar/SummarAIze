@@ -7,3 +7,5 @@ langchain_community
 langchain
 validators
 youtube_transcript_api
+pytube
+unstructured
